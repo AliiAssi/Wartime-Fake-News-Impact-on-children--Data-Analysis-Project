@@ -1,9 +1,9 @@
-# wartime-fake-news-children-analysis
+# wartime-fake-news-children-analysis 📰👧
 
 ## Overview
 This repository contains a collection of Jupyter Notebooks and related data files for analyzing the psychological impact of wartime fake news on children. The analysis leverages data mining, sentiment analysis, and risk detection techniques to better understand how children are affected by wartime misinformation.
 
-## Technology Stack
+## Technology Stack 🛠️
 - Primary Language: Jupyter Notebook (Python)
 - Data Formats: CSV
 - Fonts: Noto Sans Arabic Variable Font (for visualization and text rendering)
@@ -25,13 +25,13 @@ This repository contains a collection of Jupyter Notebooks and related data file
     ```
 2. Open the Jupyter Notebooks in your preferred environment (e.g., Jupyter Lab, VSCode, or Google Colab).
 
-## Usage
+## Usage ▶️
 
 * Each notebook focuses on a specific aspect of the analysis, including data mining, sentiment analysis, and risk detection.
 * CSV files provide the raw datasets for the analyses.
 * The included Arabic font supports proper rendering of Arabic text in visualizations.
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! Please submit issues or pull requests for improvements, bug fixes, or new features. Make sure to follow coding best practices and include documentation for your changes.
 
